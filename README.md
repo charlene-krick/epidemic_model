@@ -45,6 +45,7 @@ In this model, it is assumed that there are some simplifying hypothesis :
 -  Primary and secondary infections have the same rate of recovery and infectivity but it is not the case
 in real clinical situations.
 -  The mixing between the age group is homogeneous.
-
-That is why, we consider a vaccination strategy for Valencia.
+-  There is no maternal antibody protection.
+We note that Gi (t ) , i = 1 , 2 is the number of people of the group i where the global population N is defined by
+N = G1 +G2.
 
